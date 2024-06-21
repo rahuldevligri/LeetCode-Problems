@@ -1,7 +1,7 @@
 import java.util.Map;
 import java.util.LinkedHashMap;
 
-public class Problem7 {
+public class Problem7_usingMap {
     public static void main(String[] args) {
         String s = "MCMXCIV";
 
